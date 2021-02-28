@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(10, 10, 10);
+}
+
+#header-nav{
+    border:0;
+    border-radius: 0;
+}
+.navbar-default{
+    background-color: rgb(0, 89, 255);
+    height: 100px;
+}
+.navbar-default .navbar-brand{
+    color: white;
+    font-size: 30px;
+}
+.navbar-brand{
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left:30px;  
+}
+
+
+h1{
+    color: aliceblue;
+    font-weight: bolder;
+}
+.main-content{
+    padding: 20px;
+    color: aliceblue;
+    background-color: rgb(0, 56, 102);
+}
+
+#nav-list{
+    margin: 0;
+    padding: 10px;
+    background-color: rgb(17, 0, 78);
+    border:0;
+    border-radius: 0;
+    text-align: center;
+    font-weight: bold;
+    color: aliceblue;
+}
+#nav-collapsable{
+    padding: 0;
+    margin: 0;
+    position: relative;
+    top: -20px;
+}
